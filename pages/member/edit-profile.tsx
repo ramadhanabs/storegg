@@ -374,7 +374,6 @@ export default function EditProfile() {
                   />
                 </div>
                 <div className="button-group d-flex flex-column pt-50">
-                  // eslint-disable-next-line jsx-a11y/no-redundant-roles
                   <button
                     type="submit"
                     className="btn btn-save fw-medium text-lg text-white rounded-pill"
